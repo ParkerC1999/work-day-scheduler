@@ -14,9 +14,10 @@ This site is for users to help schedule the hours of their day. The current day 
 * Momentjs.com for internal clocks
 
 ## Website link:
-
+https://parkerc1999.github.io/work-day-scheduler/
 
 ## Website Screenshot:
+![Website Image](/assets/images/Capture.PNG)
 
 ## Made by:
 Parker Christiansen
